@@ -3,8 +3,8 @@
 ![Git](https://img.shields.io/badge/Github-github?style=flat-square&logo=github&logoColor=white&labelColor=grey&color=white&link=https%3A%2F%2Fgithub.com%2FLeomaxFilho)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLeomaxFilho%2Flzw_compressor.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2FLeomaxFilho%2Flzw_compressor?ref=badge_small)
 
-###### <em> - Leomax da Costa </em> 
-###### <em> - Federal University of Paraíba </em>
+###### <em> Leomax da Costa </em> 
+###### <em> Federal University of Paraíba </em>
 
 ---
 
